@@ -1,4 +1,4 @@
-# todo_list_api
+# Todo list api
 This project was generated with pyhto3, django and djangorestframework 
 
 Development server
